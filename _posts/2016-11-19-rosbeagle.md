@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "Installing ROS Kinetic on a Beaglebone Green Wireless"
 date: 2016-11-19
+excerpt: Install ROS Kinetic on Beaglebone Green Debian or Ubuntu, wifi enabled.
 ---
 ## Intro
-I installed ROS Kinetic on a Beaglebone Green for a [little robot I am making](https://github.com/matwilso/beaglebot).  I first tried to install Ubuntu on the Beaglebone, but I couldn't get the WiFi to work.  After hours of trying, I found that [the Ubuntu image]((https://rcn-ee.com/rootfs/bb.org/testing/2016-12-27/)) I was trying didn't have WiFi support (as of 2016).  I then had to switch to Debian.
+I installed ROS Kinetic on a Beaglebone Green for a [little robot I am making](https://github.com/matwilso/beaglebot).  I first tried to install Ubuntu on the Beaglebone, but I couldn't get the WiFi to work.  After hours of trying, I found that [the Ubuntu image](https://rcn-ee.com/rootfs/)) I was trying didn't have WiFi support (as of 2016).  I then had to switch to Debian.
 
 
 ## How to install Debian or Ubuntu
