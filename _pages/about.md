@@ -3,5 +3,4 @@ layout: single
 author_profile: true
 permalink: /about/
 ---
-
-Hello world
+Sophomore computer engineering student at the University of Utah
