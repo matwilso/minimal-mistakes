@@ -6,4 +6,4 @@ permalink: /about/
 Sophomore computer engineering student at the University of Utah
 
 
-:warning: This website is still under construction.  Sorry if things change.
+:warning::construction:  This website is still under construction.  Sorry if things change :construction::warning: 
