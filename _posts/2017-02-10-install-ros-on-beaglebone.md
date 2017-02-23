@@ -2,7 +2,8 @@
 title: "Installing ROS Kinetic with OpenCV on a Beaglebone Green Wireless"
 date: 2017-02-10
 excerpt: Install ROS Kinetic on Beaglebone Green Ubuntu 16.04 Xenial, wifi enabled.
-category: "ROS"
+categories:
+  - ROS
 ---
 ## Intro
 This post shows how to install ROS Kinetic with OpenCV on the Beaglebone Green Wireless (BBGW) with Ubuntu 16.04. Most instructions should work for other Beaglebone variants.

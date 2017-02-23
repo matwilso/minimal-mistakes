@@ -2,9 +2,30 @@
 main:
   - title: "About"
     url: /about/
-#  - title: "ROS Posts"
-#    url: /ros/
+  - title: "Categories"
+    url: /categories/
+  # - title: "ROS"
+  #   url: /ros/
+  # - title: "Misc"
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
+
+categories-sidebar:
+  - title: ""
+    children:
+      - title: "ROS"
+        url: /ros/
+    #   - title: "Beaglebone"
+    #     url: /beaglebone/
+#
+# categories-sidebar:
+#     - title: "Categories"
+#     children:
+#           - title: "ROS"
+#           url: /ros/
+#           - title: "Beaglebone"
+#           url: /beagle/
+#           - title: "Misc"
+#           url: /misc/

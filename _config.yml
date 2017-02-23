@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Matt Wilson Blog"
+title                    : "Matt Wilson - Blog"
 title_separator          : "-"
 name                     : "Matthew Wilson"
 description              : "Blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Matthew Wilson"
   avatar           : "/assets/images/melon.png"
-  bio              : "Engineering student in Sunny Utah"
-  location         : #"Salt Lake City"
+  bio              : ""
+  location         : "University of Utah"
   email            :
   uri              :
   bitbucket        : #matwilso
